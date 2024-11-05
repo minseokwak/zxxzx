@@ -1,4 +1,4 @@
-pip install matplotlib
+pip install streamlit pandas matplotlib plotly openpyxl
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
